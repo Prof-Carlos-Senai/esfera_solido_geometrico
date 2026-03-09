@@ -1,0 +1,17 @@
+{
+  "name": "poo_esfera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^30.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
